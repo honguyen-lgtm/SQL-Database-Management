@@ -1,2 +1,1 @@
-# SQL-Database-Management
-SQL coursework demonstrating database querying, data retrieval, filtering, joins, aggregations, and relational database concepts.
+SQL coursework from DSC 545 Database Management, demonstrating relational database querying, filtering, joins, aggregations, subqueries, and data transformations using the Chinook database.
